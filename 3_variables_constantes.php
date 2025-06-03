@@ -39,7 +39,6 @@
 
         // Creamos una constante llamada capital_Colombia, cuyo valor es Bogotá
         define("Capital_Colombia", "Bogotá");
-
     ?>
 </body>
 </html>
